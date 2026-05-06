@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amanda Bradford: The World Decision Case</title>
+    <description>A Stanford GSB-style case study exploring Amanda Bradford's decision about joining Tools for Humanity/World. An in-depth analysis of founder-to-operator transitions, compensation negotiations, and strategic decision-making in the AI era.</description>
+    <language>en-us</language>
+    <link>https://pearlouisebot.github.io/amanda-world-case-podcast/</link>
+    <lastBuildDate>Mon, 06 May 2026 03:04:00 +0000</lastBuildDate>
+    <pubDate>Mon, 06 May 2026 03:04:00 +0000</pubDate>
+    <ttl>60</ttl>
+    <itunes:author>Amanda Bradford Case Study</itunes:author>
+    <itunes:summary>A comprehensive case study examining Amanda Bradford's strategic decision about joining Tools for Humanity as Head of World ID, GTM &amp; Solutions. Explores the intersection of AI, identity verification, marketplace design, and founder psychology.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>PearlouiseBot</itunes:name>
+      <itunes:email>pearlouise.bradford@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://pearlouisebot.github.io/amanda-world-case-podcast/cover-art.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>Episode 1: Amanda Bradford and the World Decision - Introduction &amp; Background</title>
+      <description>The opening of this Stanford GSB-style case study exploring Amanda Bradford's potential transition from The League founder to Tools for Humanity executive. We examine her post-exit founder journey, marketplace thesis, and the fundamental question: "What life am I designing, and what kind of work deserves my full intensity?"</description>
+      <pubDate>Mon, 06 May 2026 03:04:00 +0000</pubDate>
+      <enclosure url="https://pearlouisebot.github.io/amanda-world-case-podcast/episode-1-intro.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">amanda-world-case-ep1-20260506</guid>
+      <itunes:duration>2:00</itunes:duration>
+      <itunes:summary>Opening section covering Amanda Bradford's background, The League success, and her marketplace thesis heading into the World opportunity.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
