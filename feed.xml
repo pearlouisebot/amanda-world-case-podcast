@@ -24,13 +24,13 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
-      <title>Episode 1: Amanda Bradford and the World Decision - Introduction &amp; Background</title>
-      <description>The opening of this Stanford GSB-style case study exploring Amanda Bradford's potential transition from The League founder to Tools for Humanity executive. We examine her post-exit founder journey, marketplace thesis, and the fundamental question: "What life am I designing, and what kind of work deserves my full intensity?"</description>
-      <pubDate>Mon, 06 May 2026 03:04:00 +0000</pubDate>
-      <enclosure url="https://pearlouisebot.github.io/amanda-world-case-podcast/episode-1-intro.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">amanda-world-case-ep1-20260506</guid>
-      <itunes:duration>2:00</itunes:duration>
-      <itunes:summary>Opening section covering Amanda Bradford's background, The League success, and her marketplace thesis heading into the World opportunity.</itunes:summary>
+      <title>Complete Case Study: Amanda Bradford and the Human Internet Bet</title>
+      <description>The complete Stanford GSB-style case study exploring Amanda Bradford's strategic decision about joining Tools for Humanity/World as Head of World ID, GTM &amp; Solutions. This comprehensive analysis covers her post-League founder journey, marketplace thesis, the World opportunity, interview process learnings, external reality checks, compensation negotiations, and the ultimate decision framework. A deep dive into founder-to-operator transitions, AI-era infrastructure challenges, and strategic career decisions at the intersection of identity, marketplaces, and the future of human verification online.</description>
+      <pubDate>Mon, 06 May 2026 03:30:00 +0000</pubDate>
+      <enclosure url="https://pearlouisebot.github.io/amanda-world-case-podcast/complete-case-study.mp3" length="4851712" type="audio/mpeg"/>
+      <guid isPermaLink="false">amanda-world-complete-case-20260506</guid>
+      <itunes:duration>13:28</itunes:duration>
+      <itunes:summary>Complete case study covering Amanda Bradford's marketplace thesis, World's proof-of-human challenge, interview learnings from Alex Blania and team, Tinder integration reality checks, token compensation complexities, and the strategic decision framework for founder-to-operator career transitions.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
